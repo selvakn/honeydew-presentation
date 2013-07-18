@@ -305,13 +305,13 @@ slides > slide:not(.nobackground):before {
   position: absolute;
   bottom: 20px;
   left: 60px;
-  background: url(../../images/google_developers_icon_128.png) no-repeat 0 50%;
-  -webkit-background-size: 30px 30px;
-  -moz-background-size: 30px 30px;
-  -o-background-size: 30px 30px;
-  background-size: 30px 30px;
-  padding-left: 40px;
-  height: 30px;
+  background: url(../../images/TW.png) no-repeat 0;
+  -webkit-background-size: 210px 40px;
+  -moz-background-size: 30px 120px;
+  -o-background-size: 30px 120px;
+  background-size: 210px 40px;
+  padding-left: 210px;
+  height: 40px;
   line-height: 1.9;
 }
 /* line 147, ../scss/default.scss */
@@ -1260,8 +1260,8 @@ article.smaller q:before, article.smaller q:after {
 
 /* line 848, ../scss/default.scss */
 aside.gdbar {
-  height: 97px;
-  width: 215px;
+  height: 80px;
+  width: 340px;
   position: absolute;
   left: -1px;
   top: 125px;
@@ -1315,11 +1315,10 @@ aside.gdbar.bottom {
 }
 /* line 877, ../scss/default.scss */
 aside.gdbar img {
-  width: 85px;
-  height: 85px;
+  width: 300px;
   position: absolute;
   right: 0;
-  margin: 8px 15px;
+  margin: 15px 15px;
 }
 
 /* line 888, ../scss/default.scss */
